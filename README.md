@@ -77,6 +77,9 @@ lokaalne scope - sarnane pohimote aga ainult kasutataval funktsioonide sees.
 
 <img width="389" height="337" alt="image" src="https://github.com/user-attachments/assets/8c093197-3889-4dfb-aaa5-44033819e442" />
 
+<img width="386" height="409" alt="image" src="https://github.com/user-attachments/assets/5807d57f-0ee2-4acb-9438-dacdbdc99e6e" />
+
+
 
 
 
