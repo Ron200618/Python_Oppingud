@@ -65,6 +65,7 @@ def funktsiooni anname variable-le nime ja siis seal kus me koodi aktiveerisime,
 
 
 <img width="767" height="184" alt="image" src="https://github.com/user-attachments/assets/52dffbc0-32be-4b6c-b222-bd7d71607e4f" />
+<img width="766" height="174" alt="image" src="https://github.com/user-attachments/assets/98a0c9fe-2c45-4419-91b6-f70c015ef202" />
 
 
 
