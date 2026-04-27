@@ -112,13 +112,73 @@ Protsess mille tagajarel muutame naiteks teksti kus on arv 10 (mis on esialgu st
 <img width="739" height="317" alt="image" src="https://github.com/user-attachments/assets/d0b0f5e2-3ce6-4283-89da-61cf9e1abd13" />
 
 <img width="556" height="275" alt="image" src="https://github.com/user-attachments/assets/e85e5b2f-aa5c-44e8-a78e-5e2de158d00b" />
+koodides proovime valtida neid probleeme.
+
+# conditionals if/else ja boolean ning elif
+
+<img width="461" height="251" alt="image" src="https://github.com/user-attachments/assets/b958174c-aac2-486d-84fd-7e982d54c5cd" />
 
 
+<img width="787" height="315" alt="image" src="https://github.com/user-attachments/assets/43e288f1-ca41-41bd-a413-c64b84b85a46" />
+if num_of_days >= 0, tahendab seda, et ta tagastab sonumi voi kaivitab scripti kui arv ise on suurem kui 0
+
+else on siis kui see ei vasta if-le voi kasutaja pani midagi valesti, siis see samuti tagastab kasutajale mingi teksti/teave.
+Luhidalt meil on true voi false
+
+<img width="239" height="24" alt="image" src="https://github.com/user-attachments/assets/6883e747-9e49-4fde-96db-bd5952bb0ec7" />
+<img width="532" height="49" alt="image" src="https://github.com/user-attachments/assets/14b571ab-8aab-4a02-acfe-62364b7c90dd" />
+
+<img width="444" height="162" alt="image" src="https://github.com/user-attachments/assets/ef376f72-19d0-4145-ab0b-dbf70240f8b9" />
+
+<img width="643" height="51" alt="image" src="https://github.com/user-attachments/assets/dd79cc59-541d-4cca-bf0f-7120cddb2ee1" />
+
+Siin tagastab ta kasutajale teave, kui ta peaks sisestama 0
 
 
+<img width="762" height="314" alt="image" src="https://github.com/user-attachments/assets/58257c09-a1f2-480c-b2c2-85f059460b85" />
+Koodid peavad olema loogilises jarjekorras, et saaksid valideriida kasutaja inoputi.
 
 
+# try / except
 
+<img width="622" height="254" alt="image" src="https://github.com/user-attachments/assets/088e7fa4-5aed-4303-adbe-02b79327bc34" />
+
+try - proovib kindel blokk koodi
+except - jatab valja naiteks ValueError ja saab anda teksti tagaside koos print
+
+# while loops
+
+
+<img width="477" height="202" alt="image" src="https://github.com/user-attachments/assets/b8ddc89c-46fb-4f03-9a16-84c668deb031" />
+
+
+<img width="508" height="173" alt="image" src="https://github.com/user-attachments/assets/29a8578f-5602-48b4-9fdd-d04155ebfd3d" />
+
+<img width="778" height="207" alt="image" src="https://github.com/user-attachments/assets/fa893a14-1689-426d-ac1a-b8238e1e73cd" />
+
+See on nagu if aga lihtsalt see kordab ennast. Kuna siin on if true (automaatselt on true statement) siis see kordub lopmatuseni.
+
+```
+is_server_down = True
+attempts = 0
+
+# The loop checks: Is the condition True?
+while is_server_down:
+    print("Checking server status...")
+    attempts += 1
+    
+    if attempts == 3:
+        is_server_down = False # We change the condition to False to STOP the loop
+        print("Server is back up!")
+
+# The loop has ended because the condition became False.
+```
+
+
+<img width="449" height="136" alt="image" src="https://github.com/user-attachments/assets/d654ed96-4989-4dde-826c-d87762cf4f34" />
+
+
+Kui kasutaja tahab naiteks ise programmi lopetada, ilma, et vajutada stop programm siis on see voimalik.
 
 
 
