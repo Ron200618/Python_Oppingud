@@ -48,8 +48,17 @@ Selline voimalus on ka.
 Variable-ga maaratud ara oma stringi. Sellega saad panna variable oma scripti ja vastus jaab samaks.
 Variable saab lisaks muuta olenevalt kasutaja input-st.
 
-# logic ja funktsioon
 <img width="574" height="381" alt="image" src="https://github.com/user-attachments/assets/cdf0d47d-bf76-4c9b-b405-e8101c02a10e" />
+
+
+# logic ja funktsioon
+<img width="904" height="382" alt="image" src="https://github.com/user-attachments/assets/e2ea2065-2523-4140-b275-6c2158dddaae" />
+Def maarab ara koodi plokki.
+Parast def paned oma soovil selllele nime ja asetad koodi koos "space" vahega, et maarata see kood selle funksioonile DEF.
+
+<img width="147" height="33" alt="image" src="https://github.com/user-attachments/assets/728c2f81-9b95-4637-8202-6dd2b10c7034" />
+Selle koodi ribaga aktiveerid selle funktsiooni.
+
 
 
 
