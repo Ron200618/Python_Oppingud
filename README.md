@@ -35,7 +35,7 @@ Lisaks siin on naha, et 50 on eraldi string. See on selleks, kui on script mis m
 
 
 <img width="325" height="18" alt="image" src="https://github.com/user-attachments/assets/c650f130-3fe6-45a2-902b-e96531ae7723" />
-Lisaks saab ka nii teha, et automaatselt naha ara, mis on ara jaotatud.
+Lisaks saab ka nii teha, et automaatselt naha ara, mis on ara jaotatud pannes koodi algusese f".
 
 
 <img width="415" height="27" alt="image" src="https://github.com/user-attachments/assets/560ed6a6-1c8b-4957-89ce-8c2873ee4a05" />
@@ -78,6 +78,41 @@ lokaalne scope - sarnane pohimote aga ainult kasutataval funktsioonide sees.
 <img width="389" height="337" alt="image" src="https://github.com/user-attachments/assets/8c093197-3889-4dfb-aaa5-44033819e442" />
 
 <img width="386" height="409" alt="image" src="https://github.com/user-attachments/assets/5807d57f-0ee2-4acb-9438-dacdbdc99e6e" />
+
+# kasutaja input
+
+#### input saab panna suhteliselt ukskoik mida kasutaja sisestab ja see siis salvestab selle kui variable-na.
+
+<img width="666" height="193" alt="image" src="https://github.com/user-attachments/assets/70e24f47-d625-45a6-8607-fe602a61c987" />
+
+<img width="716" height="196" alt="image" src="https://github.com/user-attachments/assets/ec794395-57b7-4cae-a7f2-99389c591b20" />
+Et selle ilusamaks teha siis paneme koodi loppu /n , mis paneb meie sisestuse allapoole, et naeks ilusam valja.
+
+# return input
+
+See on sarnane print-ga aga see salvestab andmeid variable-na.
+<img width="812" height="392" alt="image" src="https://github.com/user-attachments/assets/ec284d5e-1e5d-4ec3-bc5c-c53b75a92334" />
+
+# kasutaja input v2
+
+<img width="778" height="168" alt="image" src="https://github.com/user-attachments/assets/c75d03c8-45be-4730-87f3-70f17e23ef3a" />
+veidike keeruline moista aga me tegime uue variable, milles on funktsioon sees ja siis selle inputi mis saime kasutame selles funktsioonis ehk user_input asendab num_of_days
+
+tagasi tuli 10101010, kuna kood arvas, et kuna num_of_days on string ehk tekst. Siis peab ta valja printima "10" 24x korda.
+
+INPUT ON ALATI STRING !!!!
+
+# casting
+
+Protsess mille tagajarel muutame naiteks teksti kus on arv 10 (mis on esialgu string) muudame ara int-ks, et python moistaks, et me tahame numbrit tagastada ja mitte teksti.
+
+<img width="320" height="26" alt="image" src="https://github.com/user-attachments/assets/d2650919-9dac-453a-8ee5-f734cd4d5e25" />
+
+
+<img width="739" height="317" alt="image" src="https://github.com/user-attachments/assets/d0b0f5e2-3ce6-4283-89da-61cf9e1abd13" />
+
+<img width="556" height="275" alt="image" src="https://github.com/user-attachments/assets/e85e5b2f-aa5c-44e8-a78e-5e2de158d00b" />
+
 
 
 
