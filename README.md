@@ -33,7 +33,7 @@ Suht loogiline script
 
 
 <img width="966" height="389" alt="image" src="https://github.com/user-attachments/assets/2c605401-5d0a-4865-8f6e-3dfab52bf0b6" />
-Siin on vahed, kuna kui ei oleks vahesi siis kood tagastaks sellise tulemuse 20 days "are50minutes"
+Siin on vahe-d, kuna kui ei oleks vahesi siis kood tagastaks sellise tulemuse 20 days "are50minutes"
 
 
 
