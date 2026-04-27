@@ -67,6 +67,13 @@ def funktsiooni anname variable-le nime ja siis seal kus me koodi aktiveerisime,
 <img width="767" height="184" alt="image" src="https://github.com/user-attachments/assets/52dffbc0-32be-4b6c-b222-bd7d71607e4f" />
 <img width="934" height="337" alt="image" src="https://github.com/user-attachments/assets/64b1127f-23fa-4f18-a28e-2f5aa4d63e2c" />
 
+# scope
+
+
+globaalne scope - variable, mis on saadava iga pool kasvoi taiesti teises files. (ei saa kunagi olla funktsioonis)
+lokaalne scope - sarnane pohimote aga ainult kasutataval funktsioonide sees.
+
+<img width="389" height="337" alt="image" src="https://github.com/user-attachments/assets/8c093197-3889-4dfb-aaa5-44033819e442" />
 
 
 
