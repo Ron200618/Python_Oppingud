@@ -28,7 +28,7 @@ INT on taisarvud
 # Scriptid
 
 <img width="351" height="18" alt="image" src="https://github.com/user-attachments/assets/0f502789-6a92-4c73-aace-c8a063d20f5c" />
-Suht loogiline script
+Suht loogiline script, mis tagastab sama vastuse, mis kalkulaator annaks.
 
 
 
@@ -39,6 +39,9 @@ Lisaks siin on naha, et 50 on eraldi string. See on selles, kui on script mis mu
 
 <img width="325" height="18" alt="image" src="https://github.com/user-attachments/assets/c650f130-3fe6-45a2-902b-e96531ae7723" />
 Lisaks saab ka nii teha, et automaatselt naha ara, mis on ara jaotatud.
+<img width="415" height="27" alt="image" src="https://github.com/user-attachments/assets/560ed6a6-1c8b-4957-89ce-8c2873ee4a05" />
+Selline voimalus on ka
+
 
 
 
