@@ -27,7 +27,7 @@ INT on taisarvud
 
 # Scriptid
 
-<img width="451" height="320" alt="image" src="https://github.com/user-attachments/assets/0f502789-6a92-4c73-aace-c8a063d20f5c" />
+<img width="651" height="320" alt="image" src="https://github.com/user-attachments/assets/0f502789-6a92-4c73-aace-c8a063d20f5c" />
 Suht loogiline script
 
 
