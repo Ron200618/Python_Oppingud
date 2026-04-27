@@ -27,14 +27,13 @@ INT on taisarvud
 
 # Scriptid
 
-<img width="351" height="320" alt="image" src="https://github.com/user-attachments/assets/0f502789-6a92-4c73-aace-c8a063d20f5c" />
-
-
-
+<img width="451" height="320" alt="image" src="https://github.com/user-attachments/assets/0f502789-6a92-4c73-aace-c8a063d20f5c" />
+Suht loogiline script
 
 
 
 <img width="966" height="389" alt="image" src="https://github.com/user-attachments/assets/2c605401-5d0a-4865-8f6e-3dfab52bf0b6" />
+Siin on vahed, kuna kui ei oleks vahesi siis kood tagastaks sellise tulemuse 20 days "are50minutes"
 
 
 
