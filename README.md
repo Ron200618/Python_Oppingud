@@ -59,6 +59,17 @@ Parast def paned oma soovil selllele nime ja asetad koodi koos "space" vahega, e
 <img width="147" height="33" alt="image" src="https://github.com/user-attachments/assets/728c2f81-9b95-4637-8202-6dd2b10c7034" />
 Selle koodi ribaga aktiveerid selle funktsiooni.
 
+# parameters
+<img width="744" height="297" alt="image" src="https://github.com/user-attachments/assets/284c6721-fe24-4145-8849-402b5d70e4a7" />
+def funktsiooni anname variable-le nime ja siis seal kus me koodi aktiveerisime, sinna paneme me oma input ehk arvu.
+
+
+<img width="767" height="184" alt="image" src="https://github.com/user-attachments/assets/52dffbc0-32be-4b6c-b222-bd7d71607e4f" />
+
+
+
+
+
 
 
 
