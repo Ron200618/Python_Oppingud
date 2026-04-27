@@ -187,6 +187,36 @@ Kui kasutaja tahab naiteks ise programmi lopetada, ilma, et vajutada stop progra
 
 .Append lisab juurde stringi, koodi reale. Lisaks print(my_list[2]) votab 3 stringi (stringid alustavad 0)
 
+# for in
+for x in list
+x - voib ukskoik, mis asi olla
+list - siin peab olema mitu stringi naiteks BMW,Audi,Volvo
+
+<img width="722" height="392" alt="image" src="https://github.com/user-attachments/assets/c3b6a4c9-5999-47c7-bf15-8eadbf0b96fe" />
+
+
+# kommentaarid
+
+kui kasutada # koodis siis see ei tee midagi ja see on hea, et oma koodi seletada.
+
+
+<img width="529" height="211" alt="image" src="https://github.com/user-attachments/assets/caa0d775-0888-4782-afbc-502bde3158fa" />
+
+
+# sets
+
+
+<img width="459" height="144" alt="image" src="https://github.com/user-attachments/assets/3896a339-7b9c-47a1-9a04-5be4e54df029" />
+
+
+<img width="539" height="535" alt="image" src="https://github.com/user-attachments/assets/a9f8c6e2-d22d-4149-a022-2c45f13c9f24" />
+
+
+<img width="897" height="476" alt="image" src="https://github.com/user-attachments/assets/c593de1e-d2c2-44df-af85-fc219cfcc640" />
+
+Set - eemaldab koik korduvad stringid, input-d
+
+
 
 
 
