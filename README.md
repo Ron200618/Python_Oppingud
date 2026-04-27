@@ -180,8 +180,12 @@ while is_server_down:
 
 Kui kasutaja tahab naiteks ise programmi lopetada, ilma, et vajutada stop programm siis on see voimalik.
 
+# list and for loops 
+
+<img width="422" height="107" alt="image" src="https://github.com/user-attachments/assets/7a731455-6aa8-4685-bf43-83465d5ff602" />
 
 
+.Append lisab juurde stringi, koodi reale. Lisaks print(my_list[2]) votab 3 stringi (stringid alustavad 0)
 
 
 
