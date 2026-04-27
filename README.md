@@ -34,6 +34,12 @@ Suht loogiline script
 
 <img width="966" height="389" alt="image" src="https://github.com/user-attachments/assets/2c605401-5d0a-4865-8f6e-3dfab52bf0b6" />
 Siin on vahe-d, kuna kui ei oleks vahesi siis kood tagastaks sellise tulemuse 20 days "are50minutes"
+Lisaks siin on naha, et 50 on eraldi string. See on selles, kui on script mis muudab seda.
+
+
+<img width="325" height="18" alt="image" src="https://github.com/user-attachments/assets/c650f130-3fe6-45a2-902b-e96531ae7723" />
+Lisaks saab ka nii teha, et automaatselt naha ara, mis on ara jaotatud.
+
 
 
 
