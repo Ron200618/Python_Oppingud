@@ -43,6 +43,18 @@ Selline voimalus on ka.
 
 # Variable
 
+<img width="247" height="28" alt="image" src="https://github.com/user-attachments/assets/1fe835ad-7f3b-4e36-b904-22ee04b098a9" />
+
+Variable-ga maaratud ara oma stringi. Sellega saad panna variable oma scripti ja vastus jaab samaks.
+Variable saab lisaks muuta olenevalt kasutaja input-st.
+
+# logic ja funktsioon
+<img width="574" height="381" alt="image" src="https://github.com/user-attachments/assets/cdf0d47d-bf76-4c9b-b405-e8101c02a10e" />
+
+
+
+
+
 
 
 
