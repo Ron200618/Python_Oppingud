@@ -6,7 +6,7 @@
 
 These exercises introduce Python data types and how output differs for plain text vs numeric values.
 
-- **String**: text values like `"200 on hea number"`
+- **String**: text values like `"200 is a good number"`
 - **Int**: whole numbers like `21` or `-21`
 - **Float**: decimal numbers like `21.05`
 
