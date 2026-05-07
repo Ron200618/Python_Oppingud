@@ -1,79 +1,79 @@
-# Python Learning Portfolio
+# Pythoni Õppeportfoolio
 
-This repository documents what I practiced while learning Python fundamentals. It is organized as a portfolio index so you can quickly see what I built, what I learned, and where to find detailed notes.
+See repositoorium dokumenteerib, mida harjutasin Pythoni põhialuseid õppides. See on üles ehitatud portfoolio-indeksina, et oleks kiiresti näha, mida ma tegin, mida õppisin ja kust leida detailsemad märkmed.
 
-> Note: this repository currently focuses on documented exercises (with screenshot-based code examples), not standalone `.py` project files.
+> Märkus: see repositoorium keskendub praegu dokumenteeritud harjutustele (ekraanitõmmistel põhinevad koodinäited), mitte eraldiseisvatele `.py` projektifailidele.
 
-## Table of Contents
-- [Portfolio Index](#portfolio-index)
-- [Docs](#docs)
-- [Skills Practiced](#skills-practiced)
+## Sisukord
+- [Portfoolio indeks](#portfoolio-indeks)
+- [Dokumendid](#dokumendid)
+- [Harjutatud oskused](#harjutatud-oskused)
 
-## Portfolio Index
+## Portfoolio indeks
 
-### Basics
-- **Python Data Types (String, Int, Float)**  
-  Practiced the differences between text and numeric types, and how Python handles integer vs decimal values.  
-  **Code examples:** [Basics doc](docs/basics.md#string-int-float-and-formatting) · **Detailed writeup:** [docs/basics.md](docs/basics.md)
+### Põhitõed
+- **Pythoni andmetüübid (String, Int, Float)**  
+  Harjutasin tekstiliste ja numbriliste tüüpide erinevusi ning seda, kuidas Python käsitleb täisarve ja komaarve.  
+  **Koodinäited:** [Põhitõdede dokument](docs/basics.md#string-int-float-ja-vormindamine) · **Detailne ülevaade:** [docs/basics.md](docs/basics.md)
 
-- **String Formatting and Simple Output Scripts**  
-  Built simple output scripts and practiced readable formatting using spacing and f-strings.  
-  **Code examples:** [Formatting section](docs/basics.md#simple-scripts-and-output-formatting) · **Detailed writeup:** [docs/basics.md](docs/basics.md)
+- **Stringi vormindamine ja lihtsad väljundiskriptid**  
+  Koostasin lihtsaid väljundiskripte ja harjutasin loetavat vormindamist tühikute ning f-stringidega.  
+  **Koodinäited:** [Vormindamise jaotis](docs/basics.md#lihtsad-skriptid-ja-väljundi-vormindamine) · **Detailne ülevaade:** [docs/basics.md](docs/basics.md)
 
-- **Variables**  
-  Practiced storing values in variables and reusing them across expressions.  
-  **Code examples:** [Variables section](docs/basics.md#variables) · **Detailed writeup:** [docs/basics.md](docs/basics.md)
+- **Muutujad**  
+  Harjutasin väärtuste talletamist muutujatesse ja nende taaskasutamist avaldistes.  
+  **Koodinäited:** [Muutujate jaotis](docs/basics.md#muutujad) · **Detailne ülevaade:** [docs/basics.md](docs/basics.md)
 
-### Functions and Scope
-- **Functions and Function Calls**  
-  Learned how to define reusable functions with `def` and call them with arguments.  
-  **Code examples:** [Functions section](docs/functions-and-input.md#functions-and-function-calls) · **Detailed writeup:** [docs/functions-and-input.md](docs/functions-and-input.md)
+### Funktsioonid ja skoobid
+- **Funktsioonid ja funktsiooni väljakutsed**  
+  Õppisin, kuidas defineerida korduvkasutatavaid funktsioone `def` abil ja neid argumentidega käivitada.  
+  **Koodinäited:** [Funktsioonide jaotis](docs/functions-and-input.md#funktsioonid-ja-funktsiooni-väljakutsed) · **Detailne ülevaade:** [docs/functions-and-input.md](docs/functions-and-input.md)
 
-- **Parameters and Return Values**  
-  Practiced passing values into functions and returning computed data for reuse.  
-  **Code examples:** [Parameters and return section](docs/functions-and-input.md#parameters-and-return-values) · **Detailed writeup:** [docs/functions-and-input.md](docs/functions-and-input.md)
+- **Parameetrid ja tagastusväärtused**  
+  Harjutasin väärtuste edastamist funktsioonidesse ja tulemuste tagastamist edasiseks kasutamiseks.  
+  **Koodinäited:** [Parameetrite ja tagastuste jaotis](docs/functions-and-input.md#parameetrid-ja-tagastusväärtused) · **Detailne ülevaade:** [docs/functions-and-input.md](docs/functions-and-input.md)
 
-- **Global vs Local Scope**  
-  Practiced when values are available globally and when they are limited to function scope.  
-  **Code examples:** [Scope section](docs/functions-and-input.md#scope-global-vs-local) · **Detailed writeup:** [docs/functions-and-input.md](docs/functions-and-input.md)
+- **Globaalne vs lokaalne skoop**  
+  Harjutasin, millal väärtused on globaalselt kättesaadavad ja millal piirduvad funktsiooni skoobiga.  
+  **Koodinäited:** [Skoobi jaotis](docs/functions-and-input.md#skoop-globaalne-vs-lokaalne) · **Detailne ülevaade:** [docs/functions-and-input.md](docs/functions-and-input.md)
 
-### Input, Validation, and Logic
-- **User Input and Type Casting**  
-  Practiced collecting user input and converting string input into numeric values for calculations.  
-  **Code examples:** [Input + casting section](docs/input-and-logic.md#user-input-and-casting) · **Detailed writeup:** [docs/input-and-logic.md](docs/input-and-logic.md)
+### Sisend, valideerimine ja loogika
+- **Kasutaja sisend ja tüübimuundamine**  
+  Harjutasin kasutajasisendi lugemist ja stringina saadud väärtuste teisendamist arvutuste jaoks numbriteks.  
+  **Koodinäited:** [Sisendi + tüübimuundamise jaotis](docs/input-and-logic.md#kasutaja-sisend-ja-tüübimuundamine) · **Detailne ülevaade:** [docs/input-and-logic.md](docs/input-and-logic.md)
 
-- **Conditionals (`if` / `elif` / `else`) and Booleans**  
-  Built branching logic to validate input and return different messages for different cases.  
-  **Code examples:** [Conditionals section](docs/input-and-logic.md#conditionals-and-booleans) · **Detailed writeup:** [docs/input-and-logic.md](docs/input-and-logic.md)
+- **Tingimuslaused (`if` / `elif` / `else`) ja tõeväärtused**  
+  Koostasin hargnevat loogikat sisendi valideerimiseks ja erinevate teadete tagastamiseks eri juhtudel.  
+  **Koodinäited:** [Tingimuslausete jaotis](docs/input-and-logic.md#tingimuslaused-ja-tõeväärtused) · **Detailne ülevaade:** [docs/input-and-logic.md](docs/input-and-logic.md)
 
-- **`try` / `except` Error Handling**  
-  Practiced handling invalid values safely with exception handling.  
-  **Code examples:** [Error handling section](docs/input-and-logic.md#try--except) · **Detailed writeup:** [docs/input-and-logic.md](docs/input-and-logic.md)
+- **`try` / `except` veatöötlus**  
+  Harjutasin vigaste sisendite turvalist käsitlemist erindite abil.  
+  **Koodinäited:** [Veatöötluse jaotis](docs/input-and-logic.md#try--except) · **Detailne ülevaade:** [docs/input-and-logic.md](docs/input-and-logic.md)
 
-### Iteration and Data Structures
-- **`while` Loops**  
-  Practiced repetition logic, loop control, and stopping conditions.  
-  **Code examples:** [While loops section](docs/loops-and-collections.md#while-loops) · **Detailed writeup:** [docs/loops-and-collections.md](docs/loops-and-collections.md)
+### Iteratsioon ja andmestruktuurid
+- **`while`-tsüklid**  
+  Harjutasin kordusloogikat, tsükli juhtimist ja peatamistingimusi.  
+  **Koodinäited:** [While-tsüklite jaotis](docs/loops-and-collections.md#while-tsüklid) · **Detailne ülevaade:** [docs/loops-and-collections.md](docs/loops-and-collections.md)
 
-- **Lists and `for` Loops**  
-  Practiced iterating over collections and using list methods such as `append`.  
-  **Code examples:** [Lists and for loops section](docs/loops-and-collections.md#lists-and-for-loops) · **Detailed writeup:** [docs/loops-and-collections.md](docs/loops-and-collections.md)
+- **Listid ja `for`-tsüklid**  
+  Harjutasin kogumite läbimist ning listimeetodite nagu `append` kasutamist.  
+  **Koodinäited:** [Listide ja for-tsüklite jaotis](docs/loops-and-collections.md#listid-ja-for-tsüklid) · **Detailne ülevaade:** [docs/loops-and-collections.md](docs/loops-and-collections.md)
 
-- **Sets**  
-  Practiced removing duplicates and working with unordered unique collections.  
-  **Code examples:** [Sets section](docs/loops-and-collections.md#sets) · **Detailed writeup:** [docs/loops-and-collections.md](docs/loops-and-collections.md)
+- **Setid**  
+  Harjutasin duplikaatide eemaldamist ja unikaalseid väärtusi sisaldavate korrastamata kogumitega töötamist.  
+  **Koodinäited:** [Setide jaotis](docs/loops-and-collections.md#setid) · **Detailne ülevaade:** [docs/loops-and-collections.md](docs/loops-and-collections.md)
 
-## Docs
-- [Basics](docs/basics.md)
-- [Functions and Input](docs/functions-and-input.md)
-- [Input and Logic](docs/input-and-logic.md)
-- [Loops and Collections](docs/loops-and-collections.md)
+## Dokumendid
+- [Põhitõed](docs/basics.md)
+- [Funktsioonid ja sisend](docs/functions-and-input.md)
+- [Sisend ja loogika](docs/input-and-logic.md)
+- [Tsüklid ja kogumid](docs/loops-and-collections.md)
 
-## Skills Practiced
-- Core Python syntax and data types
-- Function design and parameter passing
-- Input handling and type conversion
-- Conditional logic and basic validation
-- Error handling with exceptions
-- Iteration patterns (`while`, `for`)
-- Fundamental data structures (`list`, `set`)
+## Harjutatud oskused
+- Pythoni põhissüntaks ja andmetüübid
+- Funktsioonide disain ja parameetrite edastamine
+- Sisendi töötlemine ja tüübimuundamine
+- Tingimusloogika ja põhiline valideerimine
+- Veatöötlus erinditega
+- Iteratsioonimustrid (`while`, `for`)
+- Põhilised andmestruktuurid (`list`, `set`)

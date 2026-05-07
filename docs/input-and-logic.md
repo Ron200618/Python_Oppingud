@@ -1,10 +1,10 @@
-# Input and Logic
+# Sisend ja loogika
 
-[← Back to Portfolio README](../README.md)
+[← Tagasi portfoolio README-sse](../README.md)
 
-## User Input and Casting
+## Kasutaja sisend ja tüübimuundamine
 
-User input arrives as text by default, so these exercises practice converting input to numeric types when needed.
+Kasutaja sisend tuleb vaikimisi tekstina, seega harjutavad need näited sisendi teisendamist numbrilisteks tüüpideks, kui seda on vaja.
 
 <img width="666" height="193" alt="image" src="https://github.com/user-attachments/assets/70e24f47-d625-45a6-8607-fe602a61c987" />
 
@@ -20,9 +20,9 @@ User input arrives as text by default, so these exercises practice converting in
 
 <img width="556" height="275" alt="image" src="https://github.com/user-attachments/assets/e85e5b2f-aa5c-44e8-a78e-5e2de158d00b" />
 
-## Conditionals and Booleans
+## Tingimuslaused ja tõeväärtused
 
-These exercises practice validating input and branching with `if`, `elif`, and `else`.
+Need harjutused keskenduvad sisendi valideerimisele ja hargnemisele `if`, `elif` ja `else` abil.
 
 <img width="461" height="251" alt="image" src="https://github.com/user-attachments/assets/b958174c-aac2-486d-84fd-7e982d54c5cd" />
 
@@ -40,6 +40,6 @@ These exercises practice validating input and branching with `if`, `elif`, and `
 
 ## Try / Except
 
-These examples practice handling invalid input safely with exception handling.
+Need näited harjutavad vigase sisendi turvalist käsitlemist erindite abil.
 
 <img width="622" height="254" alt="image" src="https://github.com/user-attachments/assets/088e7fa4-5aed-4303-adbe-02b79327bc34" />

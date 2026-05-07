@@ -1,20 +1,20 @@
-# Basics
+# Põhitõed
 
-[← Back to Portfolio README](../README.md)
+[← Tagasi portfoolio README-sse](../README.md)
 
-## String, Int, Float, and Formatting
+## String, Int, Float ja vormindamine
 
-These exercises introduce Python data types and how output differs for plain text vs numeric values.
+Need harjutused tutvustavad Pythoni andmetüüpe ja seda, kuidas väljund erineb tekstiliste ning numbriliste väärtuste puhul.
 
-- **String**: text values like `"200 is a good number"`
-- **Int**: whole numbers like `21` or `-21`
-- **Float**: decimal numbers like `21.05`
+- **String**: tekstväärtused nagu `"200 on hea number"`
+- **Int**: täisarvud nagu `21` või `-21`
+- **Float**: komaarvud nagu `21.05`
 
 <img width="995" height="404" alt="image" src="https://github.com/user-attachments/assets/c29d42ca-b6fb-4418-8db8-8d955d6df3ac" />
 
-## Simple Scripts and Output Formatting
+## Lihtsad skriptid ja väljundi vormindamine
 
-These examples practice readable output, spacing, and f-strings.
+Need näited harjutavad loetavat väljundit, tühikute kasutamist ja f-stringe.
 
 <img width="351" height="18" alt="image" src="https://github.com/user-attachments/assets/0f502789-6a92-4c73-aace-c8a063d20f5c" />
 
@@ -24,9 +24,9 @@ These examples practice readable output, spacing, and f-strings.
 
 <img width="415" height="27" alt="image" src="https://github.com/user-attachments/assets/560ed6a6-1c8b-4957-89ce-8c2873ee4a05" />
 
-## Variables
+## Muutujad
 
-These exercises show how variables store values and make scripts reusable.
+Need harjutused näitavad, kuidas muutujad salvestavad väärtusi ja muudavad skriptid korduvkasutatavaks.
 
 <img width="247" height="28" alt="image" src="https://github.com/user-attachments/assets/1fe835ad-7f3b-4e36-b904-22ee04b098a9" />
 
